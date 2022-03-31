@@ -2,23 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: software engineer & associate professor <br><a href='https://www.ict-kanazawa.ac.jp/'>International College of Technology, Kanazawa</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my pomp and circumstance academic profile!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Associate Professor specializing in software engineering, web development, and artificial intelligence in Kanazawa, Japan. You can see my profile on [ResearchMap](https://researchmap.jp/rsonger?lang=en) for a single page profile of my academic accomplishments. Haven't heard of ResearchMap? It's like [ResearchGate](https://www.researchgate.net/), but it's from Japan. Yes, I have a ResearchGate profile but haven't taken the time to update it yet.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I teach programming and software engineering courses at ICT while working to finish my PhD. See the [teaching](/teaching) page for a list of my recent courses and the [projects](/projects) page for information about my research.

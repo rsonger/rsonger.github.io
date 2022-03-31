@@ -1,18 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Yamamoto":
+  - firstname: ["Tomohito"]
+    url: https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200901073444882501
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Miyata":
+  - firstname: ["Kazunori"]
+    url: https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Peltokorpi":
+  - firstname: ["Vesa"]
+    url: https://scholar.google.co.jp/citations?user=yQxjQScAAAAJ
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Kosaka":
+  - firstname: ["Takayuki"]
+    url: https://researchmap.jp/kosaka?lang=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Iwamoto":
+  - firstname: ["Takuya"]
+    url: http://takuyaiwamoto.com/
+
+"Rynearson":
+  - firstname: ["Anastasia"]
+    url: https://orcid.org/0000-0002-2712-8712
