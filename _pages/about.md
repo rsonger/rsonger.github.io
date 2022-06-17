@@ -18,3 +18,15 @@ Welcome to my pomp and circumstance academic profile!
 I am an Associate Professor specializing in software engineering, web development, and artificial intelligence in Kanazawa, Japan. The most comprehensive list of my academic accomplishments is in my profile on [ResearchMap](https://researchmap.jp/rsonger?lang=en). Haven't heard of ResearchMap? It's like [ResearchGate](https://www.researchgate.net/), but it's from Japan. Yes, I have a ResearchGate profile, too, but it remains largely empty aside from the data their bots could scrape up about me.
 
 I currently teach programming and software engineering courses at ICT while working to finish my PhD. The [teaching](/teaching) page has a list of my recent courses and the [projects](/projects) page has information about my research.
+
+## featured course
+
+I have been working hard to develop and adapt material for the following course this year. Click the link below to view the course content published online.
+
+<blockquote>
+    <h3>
+        <a href="https://robsonger.dev/software-engineering-lab">Software Engineering Lab</a>
+    </h3>
+    <div class="post-meta">spring, year 5</div>
+    <div class="post-tags">software engineering, computer graphics, rendering, software frameworks, team development</div>
+</blockquote>
