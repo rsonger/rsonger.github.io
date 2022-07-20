@@ -6,7 +6,7 @@ subtitle: Associate Professor | Software Engineer | PhD Candidate <br><a href='h
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof-pic.png
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
