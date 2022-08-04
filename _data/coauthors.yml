@@ -14,7 +14,6 @@
   - firstname: ["Takayuki"]
     url: https://researchmap.jp/kosaka?lang=en
 
-<<<<<<< HEAD
 "Iwamoto":
   - firstname: ["Takuya"]
     url: http://takuyaiwamoto.com/
@@ -22,23 +21,3 @@
 "Rynearson":
   - firstname: ["Anastasia"]
     url: https://orcid.org/0000-0002-2712-8712
-=======
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
->>>>>>> 4817639f3084f317455433ef033f9c3f05330589
