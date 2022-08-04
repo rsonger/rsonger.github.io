@@ -5,6 +5,7 @@ title: publications
 description: publications by year in reverse chronological order
 years: [2021, 2016, 2015, 2014, 2012, 2011]
 nav: true
+nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
