@@ -6,8 +6,8 @@ subtitle: Associate Professor | Software Engineer | PhD Candidate <br><a href='h
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: prof-pic.png
+  image_cicular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
