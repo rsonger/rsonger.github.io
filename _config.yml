@@ -165,6 +165,7 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll-email-protect
+  - jekyll-github-metadata
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -182,6 +183,8 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap:         true
+# Extras
+github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
