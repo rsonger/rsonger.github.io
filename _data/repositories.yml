@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rsonger
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rsonger/Machine-Learning-API
+  - rsonger/topics_recommender
+  - rsonger/CosIng-Toxicity
+  - nonoichi5374/nonoichi5374.github.io
+  

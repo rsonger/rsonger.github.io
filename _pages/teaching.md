@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 # description: my courses for the 2022 academic year
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
 # science and technology @ ICT
