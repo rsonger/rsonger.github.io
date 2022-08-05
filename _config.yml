@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Robert W. Songer # the website title (if blank, full name will be used instead)
 first_name: Robert
 middle_name: W.
 last_name: Songer
 email: rsonger@neptune.kanazawa-it.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple academic portfolio.
+  A simple portfolio for the technical and academic persuits of Robert W. Songer.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,6 +18,7 @@ keywords: academic-website, portfolio-website  # add your own keywords or leave 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌏  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+repository: rsonger/rsonger.github.io
 url: https://rsonger.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -85,7 +86,7 @@ work_url: https://www.ict-kanazawa.ac.jp # work page URL
 # stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Email may be the best way to contact me. ORCID is not associated with anything before 2022. <a href="https://researchmap.jp/rsonger?lang=en" target="_blank">ResearchMap</a> &gt; ResearchGate
+  Contact me by email or LinkedIn. ORCID is not associated with anything before 2022. <a href="https://researchmap.jp/rsonger?lang=en" target="_blank">ResearchMap</a> &gt; ResearchGate
 
 google_analytics: G-T026MR0LPX # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification: BZnD6VY6cMzXaiqftHclwzHCvW-OgJksj0riNOntxwM # your google-site-verification ID (Google Search Console)
@@ -101,8 +102,8 @@ google_site_verification: BZnD6VY6cMzXaiqftHclwzHCvW-OgJksj0riNOntxwM # your goo
 # permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+# pagination:
+#   enabled: true
 
 # Comments
 # disqus_shortname: # put your disqus shortname
@@ -111,9 +112,9 @@ pagination:
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -174,8 +175,8 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-feed
   # - jekyll-diagrams
-  # - jekyll-feed
 
 # Sitemap settings
 defaults:

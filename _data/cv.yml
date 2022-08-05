@@ -1,97 +1,78 @@
-- title: General Information
+- title: Robert W. Songer
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Workplace
+      value: International College of Technology, Kanazawa
+    - name: Address
+      value: 2-270 Hisayasu, Kanazawa, Ishikawa 921-8601  JAPAN
+    - name: Telephone
+      value: +81-76-248-2592 
     - name: Languages
-      value: English, German
+      value: English (native), Japanese (working proficiency)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD <em>(Information and Computer Engineering)<em>
+      institution: Kanazawa Institute of Technology, Kanazawa, Japan
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Researching applications of recommender systems in education.
+        - Developing a GitHub topics recommender system in Python using NLP techniques and Django to experiment on accuracy-based versus diversity-based recommendation algorithms and their effects on the user's divergent and convergent thinking.
+        - title: <strong>Keywords:</strong>
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Recommender Systems
+            - Natural Language Processing
+            - Machine Learning
+            - Self-Directed Learning Contexts
+    - title: Master of Science <em>(Knowledge Science)</em>
+      institution: Japan Advanced Institute of Science and Technology, Nomi, Japan
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Researched gamification and play in educational contexts for a thesis titled "Finding the Fun&#58; Gameful Design of Classroom Goal Structures for Motivating Student Performance".
+        - Analyzed user experience survey data for correlations between elements of a theoretical model and statistical differences between cohorts.
+    - title: Bachelor of Science <em>(Software Engineering)</em>
+      institution: Rochester Institute of Technology, Rochester, NY, USA
+      year: 2008
+      description:
+        - Nominated and selected by faculty to be Undergraduate College Delegate.
+        - Acquired communication & leadership skills through the Global Leadership Certificate Program and LEAD Program Public Speaking Series.
+        - Planned mentoring sessions as an officer in the Society of Software Engineers and meet-ups as head of Japanese Conversation Table.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor
+      institution: International College of Technology, Kanazawa, Japan
+      year: 2009 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Facilitating educational courses for full-stack development including SQL and NoSQL data storage, application layer business logic and front-end web technology with domain-specific subjects including software engineering object-oriented design, and computer graphics.
+        - 8 years of leading the ideation, design, planning, execution and documentation of up to 5 concurrent senior projects annually as Faculty Advisor.
+        - Representing the school organization as a member of the CDIO Initiative for engineering education reform since 2010 with 6 years on international conference program committees including 3 years in a leading role.
+        - Operating and maintaining an open-source learning management system on Linux as part of core learning and teaching technology infrastructure.
+    - title: Software Engineer
+      institution: Language Intelligence, Ltd., Rochester, NY, USA
+      year: 2008 - 2009
       description:
-        - Description 1.
-        - Description 2.
+        - Incrementally developed, tested, and deployed a document translation review web application in JavaScript with XML/XSLT.
+        - Developed custom features for enterprise resource planning software in PHP.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Development Engineer in Test Intern
+      institution: Microsoft, Redmond, WA, USA
+      year: 2007
       description:
+        - Developed automated regression and build verification tests in C++ for game engine animation and rendering components of the XNA Game Studio toolset.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Programming Languages
+      items: Python, JavaScript, Java, C#, PHP, SQL, HTML/CSS, MarkDown
+    - title: Libraries
+      items: NLTK, NumPy, pandas, PyOpenGL, scikit-learn
+    - title: Frameworks
+      items: Django, Express
+    - title: Tools
+      items: VSCode, Git/GitHub, Jupyter, Node.js, MySQL, MongoDB, Eclipse, Redmine
+    - title: Other
+      items: Full-stack development, Data mining, Object-oriented analysis and design, Technical writing and documentation, Agile development
