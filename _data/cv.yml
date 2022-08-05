@@ -10,20 +10,6 @@
     - name: Languages
       value: English (native), Japanese (working proficiency)
 
-- title: Skills
-  type: map
-  contents:
-    - name: Programming
-      value: Python, JavaScript, Java, C#, PHP, SQL, HTML/CSS, MarkDown
-    - name: Libraries
-      value: NLTK, NumPy, pandas, PyOpenGL, scikit-learn
-    - name: Frameworks
-      value: Django, Express
-    - name: Tools
-      value: VSCode, Git/GitHub, Jupyter, Node.js, MySQL, MongoDB, Eclipse, Redmine
-    - name: Other
-      value: Full-stack development, Data mining, Object-oriented analysis and design, Technical writing and documentation, Agile development
-
 - title: Education
   type: time_table
   contents:
@@ -76,3 +62,17 @@
       year: 2007
       description:
         - Developed automated regression and build verification tests in C++ for game engine animation and rendering components of the XNA Game Studio toolset.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items: Python, JavaScript, Java, C#, PHP, SQL, HTML/CSS, MarkDown
+    - title: Libraries
+      items: NLTK, NumPy, pandas, PyOpenGL, scikit-learn
+    - title: Frameworks
+      items: Django, Express
+    - title: Tools
+      items: VSCode, Git/GitHub, Jupyter, Node.js, MySQL, MongoDB, Eclipse, Redmine
+    - title: Other
+      items: Full-stack development, Data mining, Object-oriented analysis and design, Technical writing and documentation, Agile development
