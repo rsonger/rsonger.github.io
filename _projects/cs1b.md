@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CS1B Portfolios
-description: Student portfolio website projects from my Computer Skills IB class
+title: Student Portfolios
+description: Portfolio website projects created by Computer Skills IB students
 img: assets/img/projects/wireframing.jpg
-importance: 1
+importance: 2
 category: work
 ---
 

@@ -24,14 +24,13 @@ I am an Associate Professor specializing in software engineering, web developmen
 
 I currently teach programming and software engineering courses at ICT while working to finish my PhD in [Information and Computer Engineering](https://www.kanazawa-it.ac.jp/ekit/education/curriculum/graduate/index.html) at Kanazawa Institute of Technology. The [teaching](/teaching) page has a list of my recent courses and the [projects](/projects) page has information about my research.
 
-## featured course
+## featured project
 
-I have been working hard to develop and adapt material for the following course this year. Click the link below to view the course content published online.
+The following project was developed for the [Software Engineering Lab](https://robsonger.dev/software-engineering-lab) course taught in Spring 2022.
 
 <blockquote>
     <h3>
-        <a href="https://robsonger.dev/software-engineering-lab">Software Engineering Lab</a>
+        <a href="https://robsonger.dev/projects/pycg-framework/">Computer Graphics Framework</a>
     </h3>
-    <div class="post-meta">spring, year 5</div>
-    <div class="post-tags">software engineering, computer graphics, rendering, software frameworks, team development</div>
+    <div class="post-meta">A software framework for rendering 3D CG with Python</div>
 </blockquote>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NLP for literature reviews
+title: Automated literature reviews
 description: Using Python with NLTK to search paper abstracts
 img: assets/img/projects/reviews.jpg
 importance: 1
